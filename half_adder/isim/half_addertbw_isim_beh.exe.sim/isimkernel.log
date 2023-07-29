@@ -1,0 +1,29 @@
+Command line:
+   half_addertbw_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  1259
+
+Fri Jul 28 13:39:31 2023
+
+
+ Elaboration Time: 0.171875 sec
+
+ Current Memory Usage: 5146.51 Meg
+
+ Total Signals          : 8
+ Total Nets             : 4
+ Total Signal Drivers   : 4
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 3
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 364
+Total Line Count : 14
+
+ Total Simulation Time: 1.04688 sec
+
+ Current Memory Usage: 4674.65 Meg
+
+Fri Jul 28 14:11:42 2023
+

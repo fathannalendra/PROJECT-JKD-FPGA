@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "D:/14.5/half_adder/half_addertbw_isim_beh.exe" -prj "D:/14.5/half_adder/half_addertbw_beh.prj" "work.half_addertbw" 
